@@ -1,0 +1,37 @@
+<html>
+<body>
+<h1>Artificial intelligence Main Page</h1>
+
+<h2> Links:</h2>
+<ul>
+  <li><a href="index.html">Main Page</a></li>
+  <li><a href="definition.html">Definition </a></li>
+  <li><a href="images.html">Images</a></li>
+  <li><a href="tables.html"> Tables</a></li>
+  <li><a href="application.html"> APPlications </a></li>
+</ul>
+
+<table>
+<tr>
+<th>country</th>
+<th>Business applications</th>
+<th>the description</th>
+<tr>
+<td>Geramany</td>
+<td>Digitization and automation of processes</td>
+<td>Many trademark applications are fully automated in the German Patent and Trademark Office</td>
+</tr>
+<tr>
+<td>Uruguay</td>
+<td>Help desk services</td>
+<td>The National Directorate uses an internal set up notification system connected to the Directorate's electronic filing system. In early 2018, the National Directorate was preparing a more sophisticated algorithm for notifications with the intention of determining whether a particular user has discontinued using the system or if it has not been used for a long time. In such cases, the algorithm will issue additional notices. 
+The algorithm will send emails, test notices, opinion polls, and requests to update personal information to ensure frequent contact with users and record any changes in data before deadlines.</td>
+</tr>
+<tr>
+<td>China</td>
+<td>Image search (trademarks, designs, patents)</td>
+<td>In early 2018, the State Administration for Industry and Commerce was working on a photo research system that would produce relatively accurate and reliable results. This system can search in the opposite direction to give the pictorial elements and the results are inputs added to the system after being confirmed by examiners. In this way, the system achieves the two elements of self-innovation and self-education, which improves the efficiency of research.</td>
+</tr>
+</table>
+</body>
+</html>
